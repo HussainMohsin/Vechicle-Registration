@@ -1,5 +1,5 @@
 # Vechicle-Registration
-Program computes vehicle registration fee based on owner information, vehicle information
+Program Computes Vehicle Registration Fee Based on Owner Information and Vehicle Information
 
 ## Program Funtion
 * Gets owner's information
